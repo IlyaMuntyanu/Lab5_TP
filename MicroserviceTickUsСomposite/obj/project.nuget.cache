@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Ayks87PJNyv7Ff4OYAA6aALXcT+jubyOwKWH3lgFOFFO4I6mSB9Sqm7T6WTKncFeCTjslnwvOxOWoOzOZvM7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\munty\\Desktop\\university\\Технологии программирования\\Лабы\\Материалы\\для 3 лабы\\тестовый экземпляр\\MicroserviceСompositeSC\\MicroserviceTickUsСomposite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\munty\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\munty\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\munty\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\munty\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\munty\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\munty\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\munty\Desktop\university\Технологии программирования\Лабы\Материалы\для 3 лабы\тестовый экземпляр\MicroserviceСompositeSC\obj\Debug\net5.0\MicroserviceTickUsСomposite.csproj.AssemblyReference.cache
+C:\Users\munty\Desktop\university\Технологии программирования\Лабы\Материалы\для 3 лабы\тестовый экземпляр\MicroserviceСompositeSC\obj\Debug\net5.0\MicroserviceTickUsСomposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munty\Desktop\university\Технологии программирования\Лабы\Материалы\для 3 лабы\тестовый экземпляр\MicroserviceСompositeSC\obj\Debug\net5.0\MicroserviceTickUsСomposite.AssemblyInfoInputs.cache
+C:\Users\munty\Desktop\university\Технологии программирования\Лабы\Материалы\для 3 лабы\тестовый экземпляр\MicroserviceСompositeSC\obj\Debug\net5.0\MicroserviceTickUsСomposite.AssemblyInfo.cs
+C:\Users\munty\Desktop\university\Технологии программирования\Лабы\Материалы\для 3 лабы\тестовый экземпляр\MicroserviceСompositeSC\obj\Debug\net5.0\MicroserviceTickUsСomposite.csproj.CoreCompileInputs.cache
+C:\Users\munty\Desktop\university\Технологии программирования\Лабы\Материалы\для 3 лабы\тестовый экземпляр\MicroserviceСompositeSC\obj\Debug\net5.0\MicroserviceTickUsСomposite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\munty\Desktop\university\Технологии программирования\Лабы\Материалы\для 3 лабы\тестовый экземпляр\MicroserviceСompositeSC\obj\Debug\net5.0\MicroserviceTickUsСomposite.MvcApplicationPartsAssemblyInfo.cache
